@@ -1,2 +1,3 @@
-# HomelyHub
-This is a Hotel booking site
+# StayInn
+
+Airbnb clone
